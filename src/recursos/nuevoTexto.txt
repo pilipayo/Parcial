@@ -1,0 +1,4 @@
+Archivo txt
+nuevo texto
+
+nuevo texto
