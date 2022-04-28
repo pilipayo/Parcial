@@ -1,7 +1,7 @@
 import {cajaRecibos} from './modelos/cajaRecibos.js'
-import {gestorArchivos} from './services/gestorArchivos.js'
 
-console.log(gestorArchivos)
+console.log("Esperar 7 segundos")
+console.log('\n-------------------------------------------\n')
 
 setTimeout(()=>{
 console.log("Pasaron 7 segundos")
