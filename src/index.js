@@ -8,7 +8,7 @@ console.log("Pasaron 7 segundos")
 console.log('\n-------------------------------------------\n')
 
 console.log("Recorrer e imprimir mostrando cliente e importe: ")
-console.log(cajaRecibos.recorrerRecibos())
+cajaRecibos.recorrerRecibos()
 console.log('\n-------------------------------------------\n')
 
 console.log("Recibos ordenados por importe")
